@@ -1,12 +1,19 @@
 # Talk-bot
-A talk bot is a speech recognition bot that will respond to your speech as well as text inputs.
-Requirements(This is a requirement package that I had downloded for this talk bot):
-1)ChatterBot==1.0.4
-2)chatterbot-corpus==1.2.0
-3)PIL
-4)pyttsx3
-5)speech_recognition
-Challenges faced:
- 1)some error with the python package
- 2)speech recognition problem
- 3)some error with the importing packages
+In this project i have made a virtual assistant. 
+A virtual Assistant that can do many things.
+
+# Prerequisites
+<pre>
+<code>pip install speech_recognition</code> </br></pre>
+<pre><code>pip install playsound</code> </br></pre>
+<pre><code>pip install gtts</code> </br></pre>
+<pre><code>pip install ssl</code> </br></pre>
+<pre><code>pip install Image</code> </br></pre>
+<pre><code>pip install pyautogui </code> </br></pre>
+<pre><code>pip install pyttsx3</code> </br></pre>
+<pre><code>pip install bs4</code> </br></pre>
+<pre><code>pip install pipwin</code> </br></pre>
+<pre><code>pip install pyaudio</code> </br></pre>
+
+After installing those modules, run talk_bot.py. It will start listening and reply accordingly.
+
